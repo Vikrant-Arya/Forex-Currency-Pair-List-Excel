@@ -1,3 +1,9 @@
-# Forex-Currency-Pair-List-Excel
-Forex Currency Pair Excel
+Forex-Currency-Pair-List-Excel
+==============================
+
++------------+------------+--------------+
+| Sr.no      | Code       | Description  |
++============+============+==============+
+|1           | EURUSD     | Detail       |
++------------+------------+--------------+
 
